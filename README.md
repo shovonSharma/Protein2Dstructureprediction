@@ -27,9 +27,9 @@ valine - val - V <br>
 using this primary seqn, protein's 2D structure can be predicted.
 in __sst8 (C: Loops and irregular elements, E: β-strand, H: α-helix, B: β-bridge, G: 3-helix, I: π-helix, T: Turn, S: Bend)__ or __sst3__(C, H, E) <br>
 
-To complete this task, i used
+To complete this task, i used an encoder only transformer model.
 
 Model : 
-![MODEL](https://github.com/shovonSharma/Protein2Dstructureprediction/blob/main/protein2Dprediction.png)
+![](https://github.com/shovonSharma/Protein2Dstructureprediction/blob/main/protein2Dprediction.png)
 
 Dataset : [casp12 cb513 ts115](https://www.kaggle.com/datasets/tamzidhasan/protein-secondary-structure-casp12-cb513-ts115)
