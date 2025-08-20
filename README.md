@@ -29,7 +29,7 @@ in __sst8 (C: Loops and irregular elements, E: β-strand, H: α-helix, B: β-bri
 
 To complete this task, i used an encoder only transformer model.
 
-Model : 
-![](https://github.com/shovonSharma/Protein2Dstructureprediction/blob/main/protein2Dprediction.png)
+ 
+![Model](https://github.com/shovonSharma/Protein2Dstructureprediction/blob/main/protein2Dprediction.png)
 
 Dataset : [casp12 cb513 ts115](https://www.kaggle.com/datasets/tamzidhasan/protein-secondary-structure-casp12-cb513-ts115)
